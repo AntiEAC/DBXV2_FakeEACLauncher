@@ -19,7 +19,7 @@ namespace AntiEAC {
 		{
 			cout << "EAC HAS BEEN BYPASSED SUCCESSFULLY!!!" << endl;
 			Sleep(2800);
-			cout << "If you wanted, you can support me in Patreon!!!" << endl;
+			cout << "If you want, you can support me in Patreon!!!" << endl;
 			Sleep(1600);
 			exit(555);
 		}
